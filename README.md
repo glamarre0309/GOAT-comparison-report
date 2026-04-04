@@ -38,11 +38,7 @@ Customer churn significantly impacts revenue and growth. The objective of this p
   - Exploratory Data Analysis (EDA)  
   - Churn rate analysis  
   - Business insights and recommendations  
-
-- **Project Management**  
-  - Structured workflow from raw data to insights  
-  - Clear documentation and deliverables  
-
+ 
 ---
 
 ## 📂 Project Structure
@@ -58,11 +54,36 @@ Churn_Analysis_Portfolio/
 
 ## 📊 Key Insights
 
-- 📉 Overall churn rate is **26.5%**, indicating a retention challenge  
-- 📆 Customers on **month-to-month contracts** have the highest churn (~42%)  
-- ⏳ **New customers (0–12 months)** are most likely to churn (~47–50%)  
-- 💳 Customers using **electronic check** show significantly higher churn (~45%)  
-- 💰 High-value customers early in their lifecycle are at the greatest risk  
+📉 Overall Churn Rate:
+The dataset shows an overall churn rate of 26.5%, meaning roughly 1 in 4 customers are leaving. This highlights a significant retention challenge for the company and signals that proactive retention strategies are critical.
+
+📆 Contract Type Impact:
+Customers on month-to-month contracts exhibit the highest churn at approximately 42%, compared to annual or two-year contracts.
+Interpretation: Short-term contracts provide customers with flexibility to leave easily, which increases churn risk.
+Actionable: Consider incentives for these customers to upgrade to longer-term contracts, such as discounts or bundled services.
+
+⏳ Tenure Effect:
+New customers (0–12 months) are the most likely to churn, with rates ranging from 47–50%. Mid-tenure customers (25–48 months) show much lower churn.
+Interpretation: Early-stage customers may not fully perceive the value of the service yet.
+Actionable: Implement onboarding programs, welcome offers, and early engagement campaigns to improve initial retention.
+
+💳 Payment Method Influence:
+Customers using electronic check payments have significantly higher churn (~45%) compared to credit card or bank transfer methods.
+Interpretation: Payment friction, late payments, or manual processing may contribute to dissatisfaction.
+Actionable: Encourage automatic payment methods, provide reminders, or offer small incentives for switching to auto-pay.
+
+💰 High-Value, High-Risk Customers:
+Customers with high monthly charges (> $80) on month-to-month contracts are particularly vulnerable to churn.
+Interpretation: High bills early in the customer lifecycle may make the service feel costly or not worth it, especially for new customers.
+Actionable: Offer customized retention strategies, such as discounts, loyalty rewards, or value-added services to reduce churn among premium customers.
+
+🌐 Internet Service Correlation:
+Customers with Fiber optic service tend to churn more than DSL or no internet users.
+Interpretation: Service quality expectations for fiber users are higher; any performance issues may trigger dissatisfaction.
+Actionable: Monitor network performance, address complaints proactively, and consider service quality guarantees to retain high-value users.
+
+💡 Summary Recommendation:
+Retention strategies should focus on early-stage, high-value, month-to-month, and high-bill customers, while also targeting payment method friction points. Segmenting customers by tenure, contract type, internet service, and billing allows for precise, data-driven retention campaigns.
 
 ---
 
