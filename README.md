@@ -99,6 +99,11 @@ Focus retention strategies on early-stage, high-value, month-to-month customers,
 
 <img width="792" height="612" alt="image" src="https://github.com/user-attachments/assets/93787d08-1217-4042-a948-ffd63390308b" />
 
+## 📊 Interactive Dashboard
+
+Explore the full interactive dashboard live on Tableau Public:  
+[View Customer Churn Dashboard](https://public.tableau.com/app/profile/gabriel.lamarre/viz/ChurnAnalysis_17751897073110/Dashboard1)
+
 ---
 
 ## 💡 Business Recommendations
