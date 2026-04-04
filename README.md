@@ -31,7 +31,7 @@ Customer churn significantly impacts revenue and growth. The objectives of this 
 - High-risk customer identification  
 - Visualizations for quick insight interpretation  
 
-### Tableau / Power BI
+### Tableau
 - Interactive dashboard creation  
 - KPI cards: Total Customers, Churn Rate, Churned Customers  
 - Visual analysis by Contract Type, Tenure, and Payment Method  
