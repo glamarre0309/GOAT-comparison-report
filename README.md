@@ -55,26 +55,26 @@ Churn_Analysis_Portfolio/
 
 ## 📊 Key Insights
 
-Churn Rate: 26.5% (~1 in 4 customers churned)
-Contract Type: Month-to-month customers show the highest churn (~42%)
-Tenure: Customers within 0–12 months have the highest churn (~47–50%)
-Payment Method: Electronic check users churn significantly more (~45%)
-High-Risk Segment: Customers with monthly charges > $80 on flexible plans
-Service Type: Fiber optic users exhibit higher churn ratescredit.
+- Churn Rate: 26.5% (~1 in 4 customers churned)
+- Contract Type: Month-to-month customers show the highest churn (~42%)
+- Tenure: Customers within 0–12 months have the highest churn (~47–50%)
+- Payment Method: Electronic check users churn significantly more (~45%)
+- High-Risk Segment: Customers with monthly charges > $80 on flexible plans
+- Service Type: Fiber optic users exhibit higher churn ratescredit.
 
 ##💡 Summary Recommendation for reducing churn 
 The overall churn rate of 26.5% indicates a significant retention challenge. Key drivers of churn include month-to-month contracts, early-tenure customers, electronic check payments, high-value customers on flexible plans, and fiber optic users.
 
 Here is how we address this:
-Incentivize long-term contracts
+- Incentivize long-term contracts
 → Offer discounts or feature bundles for annual plans
-Improve onboarding experience
+- Improve onboarding experience
 → Early engagement campaigns targeting first 90 days
-Promote automatic payments
+- Promote automatic payments
 → Incentivize switching from electronic checks
-Retain high-value customers
+- Retain high-value customers
 → Loyalty programs and personalized outreach
-Improve service reliability
+- Improve service reliability
 → Proactive monitoring and communication for fiber users
 Monitor service performance – Proactively manage fiber optic service issues and communicate effectively to maintain satisfaction.
 
