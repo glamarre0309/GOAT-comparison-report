@@ -100,18 +100,18 @@ Churn_Analysis_Portfolio/
 
 The overall churn rate of 26.5% indicates a significant retention challenge. Key drivers of churn include month-to-month contracts, early-tenure customers, electronic check payments, high-value customers on flexible plans, and fiber optic users.
 
-To address this:
+Here is how we address this:
 
-- Incentivize contract upgrades:
+### Incentivize contract upgrades:
 - Encourage month-to-month customers to switch to longer-term plans using discounts or feature add-ons.
 
-- Enhance onboarding for new customers:
+### Enhance onboarding for new customers:
 – Implement early engagement campaigns and rewards to reduce churn in the first 12 months.
 
-- Promote reliable payment methods
+### Promote reliable payment methods
 – Motivate electronic check users to switch to automatic payments with reminders and incentives.
 
-- Target high-value, high-risk customers
+### Target high-value, high-risk customers
 – Offer loyalty programs, personalized support, and value-added services to retain premium accounts.
 Monitor service performance – Proactively manage fiber optic service issues and communicate effectively to maintain satisfaction.
 
