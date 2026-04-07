@@ -43,7 +43,7 @@ Customer churn significantly impacts revenue and growth. The objectives of this 
 ---
 
 ## 📂 Project Structure
-Churn_Analysis_Portfolio/
+Churn_Analysis_Portfolio/ 
 │── Data/                # Raw dataset (CSV)
 │── SQL/                 # SQL queries
 │── Excel/               # KPI analysis & pivot tables
