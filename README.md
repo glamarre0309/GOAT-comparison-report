@@ -1,10 +1,9 @@
 # 📊 Customer Churn Analysis – End-to-End Data Analytics Project
 
 ## 🔍 Project Overview
-This project analyzes customer churn for a telecom company using **SQL**, **Excel**, and **Tableau**.  
-The goal is to identify key drivers of churn, segment high-risk customers, and provide actionable recommendations to improve customer retention.  
+This project analyzes customer churn for a telecom company using **SQL, Excel, and Tableau.** The objective is to identify key churn drivers, segment high-risk customers, and deliver actionable recommendations to improve retention.
 
-It’s a complete end-to-end analytics project covering **data cleaning, transformation, analysis, visualization, and business storytelling**.
+This is a complete end-to-end analytics workflow, including **data cleaning, transformation, analysis, visualization, and business storytelling.**
 
 ---
 
@@ -45,78 +44,38 @@ Customer churn significantly impacts revenue and growth. The objectives of this 
 
 ## 📂 Project Structure
 Churn_Analysis_Portfolio/
-├── Data/ # Raw dataset (CSV)
-├── SQL/ # SQL queries used for analysis
-├── Excel/ # PivotTables, KPI analysis, and charts
-├── Tableau/PowerBI/ # Interactive dashboard files (.twbx / .pbix)
-├── Images/ # Screenshots of dashboards and results
-└── README.md # Project documentation
+│── Data/                # Raw dataset (CSV)
+│── SQL/                 # SQL queries
+│── Excel/               # KPI analysis & pivot tables
+│── Tableau/             # Dashboard files (.twbx)
+│── Images/              # Dashboard screenshots
+└── README.md            # Documentation
 
 ---
 
 ## 📊 Key Insights
 
-### Overall Churn Rate
-- **26.5%** of customers churned (~1 in 4).  
-- Signals a significant retention challenge requiring proactive strategies.
-
-### Contract Type Impact
-- **Month-to-month contracts:** highest churn (~42%)  
-- Actionable: Incentivize upgrades to longer-term contracts (discounts, bundles).
-
-### Example:
-- Offer a 3-month free premium feature add-on for customers who switch from month-to-month to a 12-month plan.
-- Email campaign: “Lock in savings and exclusive perks — upgrade now!”
-
-### Tenure Effect
-- **0–12 months:** highest churn (~47–50%)  
-- Mid-tenure customers (25–48 months) have much lower churn  
-- Actionable: Implement onboarding programs and early engagement campaigns.
-
-### Example:
-- Send a welcome series of 5 emails during the first 3 months explaining key features.
-- Offer a first-month loyalty bonus or discount for completing setup steps or using advanced features.
-
-### Payment Method Influence
-- **Electronic check users:** churn ~45%  
-- Actionable: Encourage automatic payment, provide reminders, or offer incentives.
-
-### Example:
-- Launch a campaign offering $10 off the next bill if users switch to auto-pay.
-- Add payment reminders via SMS or email a week before due date to reduce failed payments.
-
-### High-Value, High-Risk Customers
-- Customers with **monthly charges > $80** on month-to-month plans are most vulnerable  
-- Actionable: Provide discounts, loyalty rewards, or value-added services.
-
-### Example:
-- Offer a loyalty program that gives exclusive access to premium support or discounted add-ons.
-- Personalized retention call from customer success team to check satisfaction and offer incentives.
-
-### Internet Service Correlation
-- **Fiber optic users** churn more than DSL/no internet users  
-- Actionable: Monitor network performance, address complaints proactively.
-
-### Example:
-- Implement automatic alerts for any service interruptions for fiber users.
-- Proactively send apology and compensation emails when downtime occurs, e.g., “We noticed an issue — here’s a $5            credit.”
+Churn Rate: 26.5% (~1 in 4 customers churned)
+Contract Type: Month-to-month customers show the highest churn (~42%)
+Tenure: Customers within 0–12 months have the highest churn (~47–50%)
+Payment Method: Electronic check users churn significantly more (~45%)
+High-Risk Segment: Customers with monthly charges > $80 on flexible plans
+Service Type: Fiber optic users exhibit higher churn ratescredit.
 
 ##💡 Summary Recommendation for reducing churn 
 The overall churn rate of 26.5% indicates a significant retention challenge. Key drivers of churn include month-to-month contracts, early-tenure customers, electronic check payments, high-value customers on flexible plans, and fiber optic users.
 
 Here is how we address this:
-
-### Incentivize contract upgrades:
-- Encourage month-to-month customers to switch to longer-term plans using discounts or feature add-ons.
-
-### Enhance onboarding for new customers:
-– Implement early engagement campaigns and rewards to reduce churn in the first 12 months.
-
-### Promote reliable payment methods
-– Motivate electronic check users to switch to automatic payments with reminders and incentives.
-
-### Target high-value, high-risk customers
-– Offer loyalty programs, personalized support, and value-added services to retain premium accounts.
+Incentivize long-term contracts
+→ Offer discounts or feature bundles for annual plans
+Improve onboarding experience
+→ Early engagement campaigns targeting first 90 days
+Promote automatic payments
+→ Incentivize switching from electronic checks
+Retain high-value customers
+→ Loyalty programs and personalized outreach
+Improve service reliability
+→ Proactive monitoring and communication for fiber users
 Monitor service performance – Proactively manage fiber optic service issues and communicate effectively to maintain satisfaction.
 
 By prioritizing these interventions, the company can improve customer retention, reduce churn, and protect high-value accounts.
@@ -147,8 +106,10 @@ Explore the full interactive dashboard live on Tableau Public:
 [View Customer Churn Dashboard]
 [(https://public.tableau.com/authoring/ChurnAnalysis_17751897073110/Dashboard1#1])
 
-### note
-- Stakeholders can filter by contract type, tenure, and payment method to drill down into high-risk segments.
+Features:
+- KPI tracking (Churn Rate, Total Customers, LTV)
+- Segmentation by contract type, tenure, and payment method
+- Drill-down analysis for high-risk customer groups
 
 ---
 
