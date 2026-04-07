@@ -64,23 +64,33 @@ Churn_Analysis_Portfolio/
 ### Contract Type Impact
 - **Month-to-month contracts:** highest churn (~42%)  
 - Actionable: Incentivize upgrades to longer-term contracts (discounts, bundles).
+- Example: Offer a 3-month free premium feature add-on for customers who switch from month-to-month to a 12-month plan.
+           Email campaign: “Lock in savings and exclusive perks — upgrade now!”
 
 ### Tenure Effect
 - **0–12 months:** highest churn (~47–50%)  
 - Mid-tenure customers (25–48 months) have much lower churn  
 - Actionable: Implement onboarding programs and early engagement campaigns.
+- Example: Send a welcome series of 5 emails during the first 3 months explaining key features.
+           Offer a first-month loyalty bonus or discount for completing setup steps or using advanced features.
 
 ### Payment Method Influence
 - **Electronic check users:** churn ~45%  
 - Actionable: Encourage automatic payment, provide reminders, or offer incentives.
+- Example: Launch a campaign offering $10 off the next bill if users switch to auto-pay.
+           Add payment reminders via SMS or email a week before due date to reduce failed payments.
 
 ### High-Value, High-Risk Customers
 - Customers with **monthly charges > $80** on month-to-month plans are most vulnerable  
 - Actionable: Provide discounts, loyalty rewards, or value-added services.
+- Example: Offer a loyalty program that gives exclusive access to premium support or discounted add-ons.
+           Personalized retention call from customer success team to check satisfaction and offer incentives.
 
 ### Internet Service Correlation
 - **Fiber optic users** churn more than DSL/no internet users  
 - Actionable: Monitor network performance, address complaints proactively.
+- Example: Implement automatic alerts for any service interruptions for fiber users.
+           Proactively send apology and compensation emails when downtime occurs, e.g., “We noticed an issue — here’s a $5            credit.”
 
 **💡 Summary Recommendation:**  
 Focus retention strategies on early-stage, high-value, month-to-month customers, while addressing payment method friction. Segment customers by tenure, contract type, internet service, and billing for precise campaigns.
