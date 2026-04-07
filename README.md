@@ -122,9 +122,14 @@ By prioritizing these interventions, the company can improve customer retention,
 ## 📈 Dashboard Preview
 **Excel / Tableau:**  
 
-- Churn Rate KPI  
+- Churn Rate KPI
+- Customers KPI
+- Churned Customers KPI
+- AVG LTV KPI
+- Churn Rate vs LTV via Tenure Group
+- LTV by Contract 
 - Churn by Contract Type  
-- Churn by Tenure Group  
+- Churn by Monthly Charges  
 - Churn by Payment Method  
 
 <img width="2598" height="1598" alt="image" src="https://github.com/user-attachments/assets/618132c8-d6b1-4c8f-a2c7-d0ff30bc1db7" />
@@ -134,8 +139,12 @@ By prioritizing these interventions, the company can improve customer retention,
 ## 📊 Interactive Dashboard
 
 Explore the full interactive dashboard live on Tableau Public:  
+
 [View Customer Churn Dashboard]
 [(https://public.tableau.com/authoring/ChurnAnalysis_17751897073110/Dashboard1#1])
+
+### note
+- Stakeholders can filter by contract type, tenure, and payment method to drill down into high-risk segments.
 
 ---
 
