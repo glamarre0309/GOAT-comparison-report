@@ -102,10 +102,17 @@ The overall churn rate of 26.5% indicates a significant retention challenge. Key
 
 To address this:
 
-Incentivize contract upgrades – Encourage month-to-month customers to switch to longer-term plans using discounts or feature add-ons.
-Enhance onboarding for new customers – Implement early engagement campaigns and rewards to reduce churn in the first 12 months.
-Promote reliable payment methods – Motivate electronic check users to switch to automatic payments with reminders and incentives.
-Target high-value, high-risk customers – Offer loyalty programs, personalized support, and value-added services to retain premium accounts.
+- Incentivize contract upgrades:
+- Encourage month-to-month customers to switch to longer-term plans using discounts or feature add-ons.
+
+- Enhance onboarding for new customers:
+– Implement early engagement campaigns and rewards to reduce churn in the first 12 months.
+
+- Promote reliable payment methods
+– Motivate electronic check users to switch to automatic payments with reminders and incentives.
+
+- Target high-value, high-risk customers
+– Offer loyalty programs, personalized support, and value-added services to retain premium accounts.
 Monitor service performance – Proactively manage fiber optic service issues and communicate effectively to maintain satisfaction.
 
 By prioritizing these interventions, the company can improve customer retention, reduce churn, and protect high-value accounts.
