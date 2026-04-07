@@ -54,7 +54,6 @@ Churn_Analysis_Portfolio/
 ---
 
 ## 📊 Key Insights
-
 - Churn Rate: 26.5% (~1 in 4 customers churned)
 - Contract Type: Month-to-month customers show the highest churn (~42%)
 - Tenure: Customers within 0–12 months have the highest churn (~47–50%)
@@ -62,10 +61,10 @@ Churn_Analysis_Portfolio/
 - High-Risk Segment: Customers with monthly charges > $80 on flexible plans
 - Service Type: Fiber optic users exhibit higher churn ratescredit.
 
-##💡 Summary Recommendation for reducing churn 
-The overall churn rate of 26.5% indicates a significant retention challenge. Key drivers of churn include month-to-month contracts, early-tenure customers, electronic check payments, high-value customers on flexible plans, and fiber optic users.
+## Summary Recommendation for reducing churn:
+- The overall churn rate of 26.5% indicates a significant retention challenge. Key drivers of churn include month-to-month contracts, early-tenure customers, electronic check payments, high-value customers on flexible plans, and fiber optic users.
 
-Here is how we address this:
+## Here is how we address this:
 - Incentivize long-term contracts
 → Offer discounts or feature bundles for annual plans
 - Improve onboarding experience
