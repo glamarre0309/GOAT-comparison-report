@@ -95,7 +95,8 @@ Focus retention strategies on early-stage, high-value, month-to-month customers,
 - Churn by Tenure Group  
 - Churn by Payment Method  
 
-<img width="2598" height="1598" alt="image" src="https://github.com/user-attachments/assets/a1c543a2-634f-4888-b383-ef181cecc277" />
+<img width="2598" height="1598" alt="image" src="https://github.com/user-attachments/assets/ed42be1b-852d-4d1d-ad3a-a8318f850004" />
+
 
 
 <img width="792" height="612" alt="image" src="https://github.com/user-attachments/assets/93787d08-1217-4042-a948-ffd63390308b" />
