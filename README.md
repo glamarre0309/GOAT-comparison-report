@@ -1,7 +1,7 @@
 # 📊 Customer Churn Analysis – End-to-End Data Analytics Project
 
 ## 🔍 Project Overview
-This project analyzes customer churn for a telecom company using **SQL**, **Excel**, and **Tableau/Power BI**.  
+This project analyzes customer churn for a telecom company using **SQL**, **Excel**, and **Tableau**.  
 The goal is to identify key drivers of churn, segment high-risk customers, and provide actionable recommendations to improve customer retention.  
 
 It’s a complete end-to-end analytics project covering **data cleaning, transformation, analysis, visualization, and business storytelling**.
@@ -64,7 +64,7 @@ Churn_Analysis_Portfolio/
 - **Month-to-month contracts:** highest churn (~42%)  
 - Actionable: Incentivize upgrades to longer-term contracts (discounts, bundles).
 
-   ### Example:
+### Example:
 - Offer a 3-month free premium feature add-on for customers who switch from month-to-month to a 12-month plan.
 - Email campaign: “Lock in savings and exclusive perks — upgrade now!”
 
@@ -73,7 +73,7 @@ Churn_Analysis_Portfolio/
 - Mid-tenure customers (25–48 months) have much lower churn  
 - Actionable: Implement onboarding programs and early engagement campaigns.
 
-###Example:
+### Example:
 - Send a welcome series of 5 emails during the first 3 months explaining key features.
 - Offer a first-month loyalty bonus or discount for completing setup steps or using advanced features.
 
@@ -81,7 +81,7 @@ Churn_Analysis_Portfolio/
 - **Electronic check users:** churn ~45%  
 - Actionable: Encourage automatic payment, provide reminders, or offer incentives.
 
-###Example:
+### Example:
 - Launch a campaign offering $10 off the next bill if users switch to auto-pay.
 - Add payment reminders via SMS or email a week before due date to reduce failed payments.
 
